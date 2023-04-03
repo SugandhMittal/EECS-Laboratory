@@ -1,1 +1,1 @@
-# EECS-Laboratory
+# MATLAB-Amplitude Modulated Signal
